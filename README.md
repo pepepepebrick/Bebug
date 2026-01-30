@@ -4,27 +4,30 @@ This is an interactive system built with **TouchDesigner** and **VS Code** that 
 
 `TouchDesigner`  `VS Code`  `Python`  `Microsoft Partner`
 
-(圖1:程式碼+蟲子)
-
+![image_alt](https://github.com/pepepepebrick/Bebug/blob/92e014617dda065b9c4f935990fbc30ec2f173a1/01.png)  
+  
 
 ## 🪲 Code to Hatch, DeBug to BeBug
 
 This interactive system breathes life into your code. By automatically reading characters directly from **VS Code**, it tracks the lifecycle of a beetle—from egg and larva to pupa and adult.
 
-(圖2:孵化過程)
+![image_alt](https://github.com/pepepepebrick/Bebug/blob/92e014617dda065b9c4f935990fbc30ec2f173a1/02.gif)  
 
 ## 🧫 Code can also reflect your personal style
 
 Beyond randomizing colors, sizes, and shapes, you can even choose between species like stag bugs, rhinoceros beetles, scarabs, or weevils. Whether you're building websites, developing apps, or live-coding music, this companion stays by your side, letting developers “BeBug” while they DeBug.
 
-(圖3:個人風格化+:四種蟲子)
-(圖4:多種並列)
+![image_alt](https://github.com/pepepepebrick/Bebug/blob/92e014617dda065b9c4f935990fbc30ec2f173a1/03.png)  
+  
+![image_alt](https://github.com/pepepepebrick/Bebug/blob/92e014617dda065b9c4f935990fbc30ec2f173a1/04.gif)  
+
 
 ## 🧬 Simulating nature through code
 
 For this workflow, I integrated **VS Code** with **TouchDesigner** to handle the coding. VS Code is incredibly versatile with its support for various languages and extensions, making the development much more efficient. For example, in TouchDesigner I used `Script SOP` nodes and `Python` to generate the 3D coordinates and geometric attributes for the bug’s bodies and legs. I then utilized `Script DAT` to loop the code every 80 characters, converting it into a structured data table.
 
-(圖5:程式協作介面/程式化/演算法)
+![image_alt](https://github.com/pepepepebrick/Bebug/blob/92e014617dda065b9c4f935990fbc30ec2f173a1/05.png)  
+
 
 ## 🔬 The life cycle of a bug
 
@@ -39,7 +42,8 @@ For this workflow, I integrated **VS Code** with **TouchDesigner** to handle the
   - Chars 41-50: *Adult - Antennae*
   - Chars 51-80: *Adult - Legs*
 
-(圖6:規則、部位解說)
+![image_alt](https://github.com/pepepepebrick/Bebug/blob/92e014617dda065b9c4f935990fbc30ec2f173a1/06.gif)  
+
 
 ## 🫙 Installation Guide
 
@@ -52,7 +56,7 @@ For this workflow, I integrated **VS Code** with **TouchDesigner** to handle the
 * **STEP7**: Type in `VS Code` to start hatching your bugs.
 * **STEP8**: Click the star icon on the `container1` node (gray) to access personal settings. To expand the view, right-click the `null1` node (purple) and select `View`.
 
-⚙️ [Youtube: TouchDesigner and VS Code Integration Tutorial](https://www.youtube.com/watch?v=pgPgOKxW1V4)
+⚙️ [Youtube: TouchDesigner and VS Code Integration Tutorial](https://www.youtube.com/watch?v=pgPgOKxW1V4)  
 
 
 ## ⛰️ Credit
