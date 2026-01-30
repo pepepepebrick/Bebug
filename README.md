@@ -8,11 +8,11 @@ This is an interactive system built with **TouchDesigner** and **VS Code** that 
 ![image_alt](https://github.com/pepepepebrick/Bebug/blob/92e014617dda065b9c4f935990fbc30ec2f173a1/01.png)  
 <br>
 <br>
-## 🐞 Code to Hatch, DeBug to BeBug
+## 🐞 Code to Hatch, Debug to Bebug
 
 This interactive system breathes life into your code. By automatically reading characters directly from **VS Code**, it tracks the lifecycle of a beetle—from egg and larva to pupa and adult.  
 
-**從 DeBug 到 BeBug：** 這是一個可以用「寫程式」來孵化甲蟲的互動系統，它能自動讀取 **VS Code** 中的字元，讓程式碼從卵、幼蟲、蛹再變為成蟲
+**從 Debug 到 Bebug：** 這是一個可以用「寫程式」來孵化甲蟲的互動系統，它能自動讀取 **VS Code** 中的字元，讓程式碼從卵、幼蟲、蛹再變為成蟲
 <br>
 <br>
 ![image_alt](https://github.com/pepepepebrick/Bebug/blob/92e014617dda065b9c4f935990fbc30ec2f173a1/02.gif)  
@@ -20,9 +20,9 @@ This interactive system breathes life into your code. By automatically reading c
 <br>
 ## 🧫 Code can also reflect your personal style
 
-Beyond randomizing colors, sizes, and shapes, you can even choose between species like stag bugs, rhinoceros beetles, scarabs, or weevils. Whether you're building websites, developing apps, or live-coding music, this companion stays by your side, letting developers “BeBug” while they DeBug.  
+Beyond randomizing colors, sizes, and shapes, you can even choose between species like stag bugs, rhinoceros beetles, scarabs, or weevils. Whether you're building websites, developing apps, or live-coding music, this companion stays by your side, letting developers “Bebug” while they Debug.  
 
-**程式碼也能展現你的個人風格：** 除了能改變隨機顏色、尺寸與造型，還能選擇鍬形蟲、獨角仙、金龜子或象鼻蟲。不論是在寫網頁、開發APP或在即時編程音樂，它都能陪伴著你寫程式，讓工程師們在 DeBug 時也能 “BeBug”  
+**程式碼也能展現你的個人風格：** 除了能改變隨機顏色、尺寸與造型，還能選擇鍬形蟲、獨角仙、金龜子或象鼻蟲。不論是在寫網頁、開發APP或在即時編程音樂，它都能陪伴著你寫程式，讓工程師們在 Debug 時也能 “Bebug”  
 <br>
 ![image_alt](https://github.com/pepepepebrick/Bebug/blob/92e014617dda065b9c4f935990fbc30ec2f173a1/03.png)  
   
@@ -40,8 +40,8 @@ For this workflow, I integrated **VS Code** with **TouchDesigner** to handle the
 <br>
 ## 🔬 The life cycle of a bug
 
-* Main Title: (Row 1) Max 15 chars, spaces OK. "//" hidden. (e.g., Project Name)
-* Subtitle: (Row 2) Max 15 chars, spaces OK. "//" hidden. (e.g., Name/Date)
+* Main Title: (Row 1) Max 15 chars, spaces OK. `'//'` hidden. (e.g., Project Name)
+* Subtitle: (Row 2) Max 15 chars, spaces OK. `'//'` hidden. (e.g., Name/Date)
 * Body Text: (Starts from Row 3) Line breaks and spaces are ignored; loops every **80 chars** with carryover. (e.g., Code)
   - Char 1: *Egg*
   - Chars 2-10: *Larva*
@@ -52,9 +52,9 @@ For this workflow, I integrated **VS Code** with **TouchDesigner** to handle the
   - Chars 51-80: *Adult - Legs*
 <br>
 
-**BeBug 互動系統的規則：**  
-* 大標題（第一行）：字數上限15字，可使用空格，//符號不顯示。適合填寫專案名稱
-* 次標題（第二行）：字數上限15字，可使用空格，//符號不顯示。適合填寫名字、日期
+**Bebug 互動系統的規則：**  
+* 大標題（第一行）：字數上限15字，可使用空格，`//`符號不顯示。適合填寫專案名稱
+* 次標題（第二行）：字數上限15字，可使用空格，`//`符號不顯示。適合填寫名字、日期
 * 內文（第三行開始）：分行與空格都會忽略，以 **80個字元** 循環，超過後遞補。適合填寫你的程式碼
   - 字元1：*卵*
   - 字元2-10：*幼蟲*
@@ -72,22 +72,22 @@ For this workflow, I integrated **VS Code** with **TouchDesigner** to handle the
 
 ⚙️ [Youtube: TouchDesigner and VS Code Integration Tutorial](https://www.youtube.com/watch?v=pgPgOKxW1V4)  
 
-* **STEP1**: Download the `BeBug.toe` file for this project.
+* **STEP1**: Download the `Bebug.toe` file for this project.
 * **STEP2**: Download [VS Code](https://www.google.com) and note its installation path, and download [TouchDesigner](https://www.google.com)
 * **STEP3**: Open TouchDesigner, go to `Settings/Preferences` from the top bar and click on the `DAT` subtab.
 * **STEP4**: Click the folder icon next to `Text Editor`, select the VS Code executable `(Code.exe)`, and click `Save`.
-* **STEP5**: Close TouchDesigner and open the `BeBug.toe` file.
+* **STEP5**: Close TouchDesigner and open the `Bebug.toe` file.
 * **STEP6**: Select the `text1` node (pink). Press `'P'` to open/close the sidebar, then click `Edit` under the `File` tab.
 * **STEP7**: Type in `VS Code` to start hatching your bugs.
 * **STEP8**: Click the star icon on the `container1` node (gray) to access personal settings. To expand the view, right-click the `null1` node (purple) and select `View`.  
 <br>
 
 **安裝教學：**  
-* **步驟1**: 下載這個專案的 `BeBug.toe` 檔案
+* **步驟1**: 下載這個專案的 `Bebug.toe` 檔案
 * **步驟2**: 下載 [VS Code](https://www.google.com) 並記得儲存位置，以及下載 [TouchDesigner](https://www.google.com)
 * **步驟3**: 在 TouchDesigner 開啟導航欄中的 `Settings/Preferences`，點擊子分頁 `DAT`
 * **步驟4**: 點擊 `Text Editor` 右側的資料夾圖示，選擇 VS code 的程式執行檔 `(Code.exe)`，並點擊 `Save`
-* **步驟5**: 關閉 TouchDesigner，並開啟步驟1下載的 `BeBug.toe` 檔案
+* **步驟5**: 關閉 TouchDesigner，並開啟步驟1下載的 `Bebug.toe` 檔案
 * **步驟6**: 選取畫面中的 `text1` 節點（粉紅色的），按按鍵 `'P'` 開啟/關閉側欄，點擊 `File` 頁面中的 `Edit` 按鈕
 * **步驟7**: 在` VS code` 中輸入文字，開始孵化蟲子
 * **步驟8**: 在 TouchDesigner 中，點擊 `container1` 節點（灰色的）右下角的星星符號，可以做個人化的設定。在 `null1` 節點（紫色的）點擊右鍵選單的 `view`，可以展開視窗
