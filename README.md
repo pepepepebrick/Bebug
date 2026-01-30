@@ -43,14 +43,28 @@ For this workflow, I integrated **VS Code** with **TouchDesigner** to handle the
 
 ## 🫙 Installation Guide
 
-內文
-連結
+* **STEP1**: Download the `BeBug.toe` file for this project.
+* **STEP2**: Download [VS Code](https://www.google.com) and note its installation path, and download [TouchDesigner](https://www.google.com)
+* **STEP3**: Open TouchDesigner, go to `Settings/Preferences` from the top bar and click on the `DAT` subtab.
+* **STEP4**: Click the folder icon next to `Text Editor`, select the VS Code executable `(Code.exe)`, and click `Save`.
+* **STEP5**: Close TouchDesigner and open the `BeBug.toe` file.
+* **STEP6**: Select the `text1` node (pink). Press `'P'` to open/close the sidebar, then click `Edit` under the `File` tab.
+* **STEP7**: Type in `VS Code` to start hatching your bugs.
+* **STEP8**: Click the star icon on the `container1` node (gray) to access personal settings. To expand the view, right-click the `null1` node (purple) and select `View`.
 
-(圖7:安裝)
+⚙️ [Youtube: TouchDesigner and VS Code Integration Tutorial](https://www.youtube.com/watch?v=pgPgOKxW1V4)
+
 
 ## ⛰️ Credit
 
-內文
+Developer｜[pepepepebrick](https://www.instagram.com/pepepepebrick/)  
+Partner｜[Microsoft Developer](https://www.instagram.com/microsoftdeveloper/)  
+Live Coding Music｜[Zoe Chen](https://www.instagram.com/zcguide.42/)  
+Video Editing｜[Piin Ann](https://www.instagram.com/piin_ann/)  
+
+
+🟥 🟩  
+🟦 🟨  
 
 
 
