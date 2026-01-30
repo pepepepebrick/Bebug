@@ -1,11 +1,11 @@
-# What if your code could be a "Bug"?🪲
+# What if your "Code" could be a "Bug"?🪲
 
-#InteractionDesign #TouchDesigner #VSCode #MicrosoftPartner
+This is an interactive system built with **TouchDesigner** and **VS Code** that transforms your code into a visualized "Bug" in Real-time.
 
-圖片:程式碼+蟲子
-*關鍵字 斜體粗體
-**關鍵字**
-`技術術語`
+`TouchDesigner`  `VS Code`  `Microsoft Partner`
+
+(圖片)
+
 
 ## 概念描述
 
