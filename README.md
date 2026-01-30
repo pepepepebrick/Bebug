@@ -1,4 +1,10 @@
-#What if your code could be a Bug?🪲
+# What if your code could be a "Bug"?🪲
+
+#InteractionDesign #TouchDesigner #VSCode #MicrosoftPartner
+
+圖片:程式碼+蟲子
+
+## 概念描述
 
 What if your programming could actually "hatch" a beetle? This interactive system breathes life into your code. By automatically reading characters directly from #VSCode, it tracks the lifecycle of a beetle—from egg and larva to pupa and adult.
 
