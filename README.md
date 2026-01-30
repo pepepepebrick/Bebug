@@ -1,21 +1,26 @@
 # What if your "Code" could be a "Bug"?
 
-This is an interactive system built with **TouchDesigner** and **VS Code** that transforms your code into a visualized "Bug" in Real-time.
+This is an interactive system built with **TouchDesigner** and **VS Code** that transforms your code into a visualized "Bug" in Real-time.  
+這是一個 TouchDesigner 與 VS Code 的互動系統，它可以將你的程式碼即時變成一隻蟲子  
 
-`TouchDesigner`  `VS Code`  `Python`  `Microsoft Partner`
+`TouchDesigner`  `VS Code`  `Python`  `Microsoft Partner`  
 
 ![image_alt](https://github.com/pepepepebrick/Bebug/blob/92e014617dda065b9c4f935990fbc30ec2f173a1/01.png)  
   
 
 ## 🪲 Code to Hatch, DeBug to BeBug
 
-This interactive system breathes life into your code. By automatically reading characters directly from **VS Code**, it tracks the lifecycle of a beetle—from egg and larva to pupa and adult.
+This interactive system breathes life into your code. By automatically reading characters directly from **VS Code**, it tracks the lifecycle of a beetle—from egg and larva to pupa and adult.  
+
+這是一個可以用「寫程式」來孵化甲蟲的互動系統，它能自動讀取 **VS Code** 中的字元，讓程式碼從卵、幼蟲、蛹再變為成蟲
 
 ![image_alt](https://github.com/pepepepebrick/Bebug/blob/92e014617dda065b9c4f935990fbc30ec2f173a1/02.gif)  
 
 ## 🧫 Code can also reflect your personal style
 
-Beyond randomizing colors, sizes, and shapes, you can even choose between species like stag bugs, rhinoceros beetles, scarabs, or weevils. Whether you're building websites, developing apps, or live-coding music, this companion stays by your side, letting developers “BeBug” while they DeBug.
+Beyond randomizing colors, sizes, and shapes, you can even choose between species like stag bugs, rhinoceros beetles, scarabs, or weevils. Whether you're building websites, developing apps, or live-coding music, this companion stays by your side, letting developers “BeBug” while they DeBug.  
+
+除了能改變隨機顏色、尺寸與造型，還能選擇鍬形蟲、獨角仙、金龜子或象鼻蟲。不論是在寫網頁、開發APP或在即時編程音樂，它都能陪伴著你寫程式，讓工程師們在 DeBug 時也能 “BeBug”  
 
 ![image_alt](https://github.com/pepepepebrick/Bebug/blob/92e014617dda065b9c4f935990fbc30ec2f173a1/03.png)  
   
@@ -24,7 +29,9 @@ Beyond randomizing colors, sizes, and shapes, you can even choose between specie
 
 ## 🧬 Simulating nature through code
 
-For this workflow, I integrated **VS Code** with **TouchDesigner** to handle the coding. VS Code is incredibly versatile with its support for various languages and extensions, making the development much more efficient. For example, in TouchDesigner I used `Script SOP` nodes and `Python` to generate the 3D coordinates and geometric attributes for the bug’s bodies and legs. I then utilized `Script DAT` to loop the code every 80 characters, converting it into a structured data table.
+For this workflow, I integrated **VS Code** with **TouchDesigner** to handle the coding. VS Code is incredibly versatile with its support for various languages and extensions, making the development much more efficient. For example, in TouchDesigner I used `Script SOP` nodes and `Python` to generate the 3D coordinates and geometric attributes for the bug’s bodies and legs. I then utilized `Script DAT` to loop the code every 80 characters, converting it into a structured data table.  
+
+這次我在 **TouchDesigner** 中使用了 **VS Code** 進行協作，它支援廣泛的程式語言與擴充元件，讓我能更方便的編輯程式碼。例如在 TouchDesigner 中，昆蟲的身體與腳，我都是透過 `Script SOP` 節點，用 `Python` 來寫出線段的3D座標與幾何屬性；接著再用 `Script DAT` 將程式碼以80個字元為單位進行循環，並轉換為特定形式的資料表格  
 
 ![image_alt](https://github.com/pepepepebrick/Bebug/blob/92e014617dda065b9c4f935990fbc30ec2f173a1/05.png)  
 
