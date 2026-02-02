@@ -65,6 +65,8 @@ For this workflow, I integrated **VS Code** with **TouchDesigner** to handle the
   - 字元51-80：*成蟲 - 腳*  
 <br>
 
+![image_alt](https://github.com/pepepepebrick/Bebug/blob/fd5ac7bfb83b6f92343edbf43186598ed58c2194/image/07.jpg)  
+<br>
 ![image_alt](https://github.com/pepepepebrick/Bebug/blob/92e014617dda065b9c4f935990fbc30ec2f173a1/06.gif)  
 <br>
 <br>
