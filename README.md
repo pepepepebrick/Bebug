@@ -80,7 +80,7 @@ For this workflow, I integrated **VS Code** with **TouchDesigner** to handle the
 * **STEP4**: Click the folder icon next to `Text Editor`, select the VS Code executable `(Code.exe)`, and click `Save`.
 * **STEP5**: Close TouchDesigner and open the `Bebug.toe` file.
 * **STEP6**: Select the `text1` node (pink). Press `'P'` to open/close the sidebar, then click `Edit` under the `File` tab.
-* **STEP7**: Type in `VS Code` to start hatching your bugs.
+* **STEP7**: Type in VS Code to start hatching your bugs.
 * **STEP8**: Click the star icon on the `container1` node (gray) to access personal settings. To expand the view, right-click the `null1` node (purple) and select `View`.  
 <br>
 
@@ -91,7 +91,7 @@ For this workflow, I integrated **VS Code** with **TouchDesigner** to handle the
 * **步驟4**: 點擊 `Text Editor` 右側的資料夾圖示，選擇 VS code 的程式執行檔 `(Code.exe)`，並點擊 `Save`
 * **步驟5**: 關閉 TouchDesigner，並開啟步驟1下載的 `Bebug.toe` 檔案
 * **步驟6**: 選取畫面中的 `text1` 節點（粉紅色的），按按鍵 `'P'` 開啟/關閉側欄，點擊 `File` 頁面中的 `Edit` 按鈕
-* **步驟7**: 在` VS code` 中輸入文字，開始孵化蟲子
+* **步驟7**: 在 VS Code 中輸入文字，開始孵化蟲子
 * **步驟8**: 在 TouchDesigner 中，點擊 `container1` 節點（灰色的）右下角的星星符號，可以做個人化的設定。在 `null1` 節點（紫色的）點擊右鍵選單的 `view`，可以展開視窗
 <br>
 
