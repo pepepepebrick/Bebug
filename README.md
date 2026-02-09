@@ -3,7 +3,8 @@
 This is an interactive system built with **TouchDesigner** and **VS Code** that transforms your code into a visualized "Bug" in Real-time.  
 這是一個 **TouchDesigner** 與 **VS Code** 的互動系統，它可以將你的程式碼即時變成一隻蟲子  
 
-`TouchDesigner`  `VS Code`  `Python`  `Microsoft Partner`  
+Dependencies 運行環境 : `TouchDesigner` + `VS Code`
+<br>
 <br>
 ![image_alt](https://github.com/pepepepebrick/Bebug/blob/92e014617dda065b9c4f935990fbc30ec2f173a1/01.png)  
 <br>
